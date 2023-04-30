@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next JS 13.3 Explained
 
-## Getting Started
+## Description
+This is a NextJS 13 crash course provided by Traversy.  This app dives into the use of the new NextJS 13 folder structure that includes the new app directory, as well as the new component Metadata feature.<br /><br/>
 
-First, run the development server:
+## Summary
+The purpose of this course was to learn the usage of routing with the new app folder structure for routing between the client and server sides (respectively) with api fetching and UI display, and the new approach to building a successful and powerful SEO with the use of the component nested metadata.  I used `npx-create-next-app@latest` with the experimental and tailwind optional features.  Tailwind, however, is not used throughout.  Instead, Traversy offered a pre-fab globals.css file for styling.<br /><br />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+As this app is a mock-up, there are certain features that are not operable, but the purpose of the course was acheived.<br /><br />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can find the deployed site here:
+<!-- vercel site address goes here -->
+for a run through of its functionality.
+<br /><br />
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<img src='public/screenShot.png' target='_blank' rel='noreferrer noopener' alt='SEO Mock Application' />
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.js`.
+If you have a good understanding of React 18 and some history with NextJS, I HIGHLY RECOMMEND coding along with the [Next.js 13 Crash Course | App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE).<br /><br />
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contact Information
+[www.williamlowrimore.com](https://www.williamlowrimore.com)<br />
 
-## Learn More
+[www.wlowrimore@gmail.com](mailto:wlowrimore@gmail.com)
 
-To learn more about Next.js, take a look at the following resources:
+[Github Profile](https://www.github.com/wlowrimore)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href='https://www.linkedin.com/in/
+william-lowrimore-21778310'>Linkedin Profile</a>

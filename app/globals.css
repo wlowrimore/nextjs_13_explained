@@ -69,6 +69,14 @@ body {
   text-decoration: none;
 }
 
+.logo a:hover {
+  color: #1f1f1f;
+}
+
+.links {
+  text-align: center;
+}
+
 .links a {
   margin: 0 0.5rem 0 0.5rem;
   color: #fff;
@@ -79,9 +87,14 @@ body {
   text-decoration: underline;
 }
 
+.welcome-title {
+  margin: 0.7em;
+}
+
 .search-form {
   display: flex;
   align-items: center;
+  margin: 1em;
 }
 
 .search-input {

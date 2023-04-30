@@ -25,7 +25,7 @@ const HomePage = () => {
   }
   return (
     <div>
-      <h2>Welcome to your NextJS 13.3 Tutorial</h2>
+      <h2 className="welcome-title">Welcome to your NextJS 13.3 Tutorial</h2>
       <CourseSearch getSearchResults={(results) => setCourses(results)} />
       <Courses courses={courses} />
     </div>
