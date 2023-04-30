@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import LoadingPage from "./loading";
 import Link from "next/link";
 import { Courses } from "./components/Courses";
+import CourseSearch from "./components/CourseSearch";
 
 const HomePage = () => {
   const [courses, setCourses] = useState([]);
@@ -25,6 +26,7 @@ const HomePage = () => {
   return (
     <div>
       <h2>Welcome to your NextJS 13.3 Tutorial</h2>
+      <CourseSearch getSearchResults={(results) => setCourses(results)} />
       <Courses courses={courses} />
     </div>
   );
