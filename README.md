@@ -4,13 +4,12 @@
 This is a NextJS 13 crash course provided by Traversy.  This app dives into the use of the new NextJS 13 folder structure that includes the new app directory, as well as the new component Metadata feature.<br /><br/>
 
 ## Summary
-The purpose of this course was to learn the usage of routing with the new app folder structure for routing between the client and server sides (respectively) with api fetching and UI display, and the new approach to building a successful and powerful SEO with the use of the component nested metadata.  I used `npx-create-next-app@latest` with the experimental and tailwind optional features.  Tailwind, however, is not used throughout.  Instead, Traversy offered a pre-fab globals.css file for styling.<br /><br />
+The purpose of this course was to learn the usage of the new app folder structure for routing between the client and server sides (respectively) with server api fetching and client (UI) display, and the new approach to building a successful and powerful SEO with the use of the component nested metadata.  I used `npx-create-next-app@latest` with the experimental and tailwind optional features.  Tailwind, however, is not used throughout.  Instead, Traversy offered a pre-fab globals.css file for styling.<br /><br />
 
 As this app is a mock-up, there are certain features that are not operable, but the purpose of the course was acheived.<br /><br />
 
-You can find the deployed site here:
-<!-- vercel site address goes here -->
-for a run through of its functionality.
+You can find the deployed site 
+<a href='https://nextjs-13-explained.vercel.app/' target='_blank' rel='noreferrer noopener'>here:</a>
 <br /><br />
 
 <img src='public/screenShot.png' target='_blank' rel='noreferrer noopener' alt='SEO Mock Application' />
